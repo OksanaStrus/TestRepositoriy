@@ -2,5 +2,7 @@ include<iostream>
 
 void main()
 {
-	cout<<"Hello word new";
+	string name;
+	cin>>name;
+	cout<<"Hello, " + name;
 }
