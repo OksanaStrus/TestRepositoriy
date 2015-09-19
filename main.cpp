@@ -2,5 +2,5 @@ include<iostream>
 
 void main()
 {
-	cout<<"Hello word";
+	cout<<"Hello word new";
 }
